@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.asodev</groupId>
-    <artifactId>LastExistance</artifactId>
+    <artifactId>LastLife</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>LastExistance</name>
+    <name>LastLife</name>
 
     <description>Not Last Life.. But Last Life</description>
     <properties>
