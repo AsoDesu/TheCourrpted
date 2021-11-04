@@ -1,0 +1,18 @@
+name: TheCorrupted
+version: '${project.version}'
+main: net.asodev.thecorrupted.Main
+api-version: 1.17
+description: Not Last Life.. But Last Life
+
+commands:
+  givelife:
+    description: Gives a life to another person
+  setlives:
+    permission: le.admin
+    description: Sets a player's lives
+  startsession:
+    permission: le.admin
+    description: Starts the session
+  endsession:
+    permission: le.admin
+    description: Ends the session
